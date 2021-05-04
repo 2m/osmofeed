@@ -4,6 +4,15 @@
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
+          "description": "In June of 2006, web developers and designers from around the world came to London for the second annual @media conference. The first had been a huge success, and @media 2006 had even more promise. Its speaker lineup was pulled &#8230;\nThe post Chapter 8: CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/chapter-8-css/",
+          "publishedOn": "2021-05-03T21:52:08.000Z",
+          "wordCount": 6272,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Chapter 8: CSS"
+        },
+        {
           "description": "I hope people think of SVG as a vector format that is good for drawing things. There is plenty more to know, but here&#8217;s one more: SVG is good for composition. You draw things at very specific coordinates &#8230;\nThe post Swipey Image Grids appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://www.cassie.codes/posts/swipey-image-grids/",
           "publishedOn": "2021-05-03T14:35:07.000Z",
@@ -52,7 +61,7 @@
           "description": "Labels are a feature that have existed since the creation of JavaScript. They aren’t new! I don’t think all that many people know about them and I’d even argue they are a bit confusing. But, as we’ll see, labels can &#8230;\nThe post You Can Label a JavaScript `if` Statement appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/you-can-label-a-javascript-if-statement/",
           "publishedOn": "2021-04-30T14:29:32.000Z",
-          "wordCount": 1909,
+          "wordCount": 1992,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "You Can Label a JavaScript `if` Statement"
@@ -61,7 +70,7 @@
           "description": "I&#8217;ve got a podcast that will be 10 years old this coming January! Most of those episodes have one or more guests (plus me and Dave). Despite fancy modern options for recording podcasts with guests, like Riverside.fm or Zencastr&#8230;\nThe post Sending Large Files appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/sending-large-files/",
           "publishedOn": "2021-04-29T17:52:55.000Z",
-          "wordCount": 1649,
+          "wordCount": 1669,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Sending Large Files"
@@ -128,15 +137,6 @@
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Exploring color-contrast() for the First Time"
-        },
-        {
-          "description": "I love to make CSS do stuff it shouldn’t. It’s the type of problem-solving brain training you’d get building a calculator in Minecraft, except you probably won’t get a job working with Minecraft Redstone no matter how good you &#8230;\nThe post Generating (and Solving!) Sudokus in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/generating-and-solving-sudokus-in-css/",
-          "publishedOn": "2021-04-26T14:05:00.000Z",
-          "wordCount": 5071,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Generating (and Solving!) Sudokus in CSS"
         }
       ]
     },
@@ -147,7 +147,7 @@
           "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
           "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
           "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2118,
+          "wordCount": 2141,
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "The Evolution Of Jamstack"
@@ -356,6 +356,24 @@
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
         {
+          "description": "Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included",
+          "link": "https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/",
+          "publishedOn": "2021-05-03T17:20:56.000Z",
+          "wordCount": 2495,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "How to Fetch Data in React from a GraphQL API"
+        },
+        {
+          "description": "In this article, we'll see some of the common mistakes that React developers make, and how you can avoid them. So let's get started. Don't Forget that Every Route Change Mounts and Unmounts a ComponentWhenever you're using routing in a React application, you declare routes inside the Switch component. This",
+          "link": "https://www.freecodecamp.org/news/common-mistakes-react-developers-make-and-how-to-fix-them/",
+          "publishedOn": "2021-05-03T16:40:08.000Z",
+          "wordCount": 1158,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Common Mistakes React Developers Make – And How to Fix Them"
+        },
+        {
           "description": "Cross Site Request Forgery, or CSRF occurs when a malicious site or program causes a user's browser to perform an unwanted action on a trusted site when the user is authenticated. Any malicious action is limited to the capability of the website to which the user is authenticated. For example,",
           "link": "https://www.freecodecamp.org/news/what-is-cross-site-request-forgery/",
           "publishedOn": "2021-05-03T16:13:55.000Z",
@@ -365,10 +383,10 @@
           "title": "Cross Site Request Forgery – What is a CSRF Attack and How to Prevent It"
         },
         {
-          "description": "You can learn everything you need to know to earn the Azure Administrator Certification by completing this free 11-hour course. What is Microsoft Azure Administrator?The Azure Administrator is the most popular Azure certification because it provides the broadest amount of practical knowledge to manage Azure infrastructure and it allows",
+          "description": "You can learn everything you need to know to earn the Azure Administrator Certification by completing this free 11-hour course. What is Microsoft Azure Administrator?The Azure Administrator is the most popular Azure certification because it provides the broadest amount of practical knowledge to manage Azure infrastructure. It also allows",
           "link": "https://www.freecodecamp.org/news/azure-administrator-certification-az-104-pass-the-exam-with-this-free-11-hour-course/",
           "publishedOn": "2021-05-03T15:31:42.000Z",
-          "wordCount": 881,
+          "wordCount": 890,
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
           "title": "Azure Administrator Certification (AZ-104) – Pass the Exam With This Free 11-Hour Course"
@@ -426,24 +444,6 @@
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
           "title": "JavaScript Execution Context and Hoisting Explained with Code Examples"
-        },
-        {
-          "description": "Hi! Welcome. If you are learning Python, then this article is for you. You will find a thorough description of Python syntax and lots of code examples to guide you during your coding journey.  What we will cover:Variable Definitions in PythonHello, World! Program in PythonData Types and Built-in Data",
-          "link": "https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/",
-          "publishedOn": "2021-04-27T19:55:23.000Z",
-          "wordCount": 12960,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Python Code Examples – Sample Script Coding Tutorial for Beginners"
-        },
-        {
-          "description": "Hello, everyone! In this article we are going to learn how to add the Realm database to an iOS app.  We'll create a simple ToDo app so you can learn how to perform CRUD (Create, Read, Update, Delete) operations in the Realm database. What is Realm?Realm is an open-source",
-          "link": "https://www.freecodecamp.org/news/add-realm-database-to-ios-crud-app-with-with-swift/",
-          "publishedOn": "2021-04-27T18:21:00.000Z",
-          "wordCount": 1815,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "How to Add the Realm Database to an iOS CRUD App using Swift"
         }
       ]
     }
